@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Work**
 
-- 🌱 I’m currently learning **material,tailwand,bootstrap,bulma**
+- 🌱 I’m currently learning **TypeScript, React, ReactNative, Node Nestjs Express Angular Vue**
 
 - 👯 I’m looking to collaborate on **Portfolio**
 
